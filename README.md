@@ -23,15 +23,4 @@ Run : ./tabchi-1.sh
 ## Run - اجرا
 Use `./tabchi-ID.sh` to run your bot normaly or use `screen ./tabchi-ID.sh` for auto launch mode (put tabchi-id in ID part)
 
-## Help and more... - راهنمایی
-@ShopBuy
-## Developers - توسعه دهندگان
-توسعه دهندگان تبچی :<br>
- * [BugFather (Amir_h)](https://telegram.me/BugFather)
- * [Base64 (Amin)](https://telegram.me/Base64)
- <br>
- توسعه دهندگان پروژه فاک تبچی :<br>
-  * [@ShopBuy - Amu Ali :D](https://telegram.me/ShopBuy)
-  * [Mr_Live](https://telegram.me/Mr_Live)
-
-### Powered by [ThinkTeam](https://telegram.me/ThinkTeam)
+## Coded By Kiava.ir
